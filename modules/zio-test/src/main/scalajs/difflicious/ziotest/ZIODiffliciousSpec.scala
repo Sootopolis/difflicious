@@ -1,0 +1,3 @@
+package difflicious.ziotest
+
+trait ZIODiffliciousSpec extends ZIODiffliciousSpecBase
